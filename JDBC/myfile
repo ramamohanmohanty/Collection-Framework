@@ -1,0 +1,5 @@
+my.driver=oracle.jdbc.driver.OracleDriver
+my.url=oracle.jdbc.driver.OracleDriver
+my.username=system
+my.password=system
+my.query=select * from login
